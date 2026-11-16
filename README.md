@@ -1,2 +1,3 @@
 # Sittin-Kitten
-Automated litterbox designed using SolidWorks
+The Sittin' Kitten is an automated litterbox designed using SolidWorks
+This project was designed by Drew Lawton, Sean Kelley, and Ziyang Zhou

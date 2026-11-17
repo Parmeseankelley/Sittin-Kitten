@@ -15,15 +15,18 @@ This project was designed by Drew Lawton, Sean Kelley, and Ziyang Zhou.
 
 
 ## Design Alternatives: 
-
-![hoverover text](SK1.png)
+<p align="center">
+<img src="SK1.png" alt="Project Logo" width="300">
+</p>
  
 The first concept design involved using a simple pendulum swinging motion with a 
 basket to remove the used litter. However, this design would be in the way and would require a 
 ceiling to house the basket pendulum. This concept resulted in determining that the basket 
 should be on a rail system along the edges of the assembly. 
 
-![hoverover text](SK2.png)
+<p align="center">
+<img src="SK2.png" alt="Project Logo" width="300">
+</p>
  
 The second concept design utilized a cam along a chain or belt to move the basket up 
 and down along a sloped recession in the tray. This created problems as to how the basket 
@@ -32,7 +35,9 @@ cam to pull and push the basket up or down. The belt would also not have been ab
 the basket. This design led to the conclusion that simple translational motions would be easier 
 to recreate with two crank slider mechanisms. 
 
-![hoverover text](SK3.png)
+<p align="center">
+<img src="SK3.png" alt="Project Logo" width="300">
+</p>
 
 The third concept design involved two crank slider mechanisms transferring a basket to 
 slide it along and then upwards the litter box. The major flaw with this design was figuring out 
@@ -96,9 +101,13 @@ positions of the mechanism.  The mechanism was designed around an electric DC mo
 The motor has an adjustable speed, but we chose 6 rpm. We chose this 
 because the time interval to complete a full cycle of the mechanism is 10 seconds.  
 
-![hoverover text](SK4.png)
-![hoverover text](SK5.png)
+<p align="center">
+<img src="SK4.png" alt="Project Logo" width="300">
+</p>
 
+<p align="center">
+<img src="SK5.png" alt="Project Logo">
+</p>
 
 The above equations can be used to determine the values of the angular velocity of the 
 connecting rod and the horizontal linear velocity of the slider.  To determine these values for a 
@@ -109,7 +118,9 @@ The code also created a scaled animation with the axes being in meters.  The vis
 angular velocity is slowed down  to make an easier viewing, but all of the values produced by 
 the code itself are correct.  The video and code are included in separate documents. 
 
- ![hoverover text](SK6.png)
+<p align="center">
+<img src="SK6.png" alt="Project Logo">
+</p>
  
 ## Force Analysis: 
 For the force analysis, we decide to only focus on the rods and cranks. The reason is 
@@ -118,16 +129,27 @@ used to do the force analysis was the SolidWorks FEA simulation tool which is a 
 SolidWorks.  
 
 For the Part Crank 1-A: 
+<p align="center">
+<img src="SK7.png" alt="Project Logo">
+</p>
 ![hoverover text](SK7.png)
  
 For the Part Crank 1-B: 
+<p align="center">
+<img src="SK8.png" alt="Project Logo">
+</p>
 ![hoverover text](SK8.png)
  
 For the part Pin B:
+<p align="center">
+<img src="SK9.png" alt="Project Logo">
+</p>
 ![hoverover text](SK9.png)
 
 For the part Rod: 
-![hoverover text](SK10.png)
+<p align="center">
+<img src="SK10.png" alt="Project Logo">
+</p>
  
 ## Mechanics of Materials Analysis: 
 When testing the materials, we applied forces well above what the system would usually 
@@ -142,20 +164,36 @@ Additionally, we were satisfied with this torque output because there would be n
 found the maximum shear stress that would be created by this torque and compared it to the 
 1060 alloy’s fatigue strength.  
 
-![hoverover text](SK11.png)
+<p align="center">
+<img src="SK11.png" alt="Project Logo">
+</p>
 
 Using what we calculated above, we know that through regular use of the mechanism, 
 the fatigue on the crank will never cause cracking and the rods will remain in their elastic states. 
  
 ## Design Drawings: 
 Drew Lawton, Sean Kelley, and Ziyang Zhou 
- ![hoverover text](SK12.png)
- ![hoverover text](SK13.png)
- ![hoverover text](SK14.png)
- ![hoverover text](SK15.png)
- ![hoverover text](SK16.png)
- ![hoverover text](SK17.png)
- ![hoverover text](SK18.png)
+<p align="center">
+<img src="SK12.png" alt="Project Logo">
+</p>
+<p align="center">
+<img src="SK13.png" alt="Project Logo">
+</p>
+<p align="center">
+<img src="SK14.png" alt="Project Logo">
+</p>
+<p align="center">
+<img src="SK15.png" alt="Project Logo">
+</p>
+<p align="center">
+<img src="SK16.png" alt="Project Logo">
+</p>
+<p align="center">
+<img src="SK17.png" alt="Project Logo">
+</p>
+<p align="center">
+<img src="SK18.png" alt="Project Logo">
+</p>
  
 How to Choose a Motor: 
 https://www.jameco.com/Jameco/workshop/ProductNews/motor-buyers-guide.html#:~:text=Con

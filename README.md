@@ -117,11 +117,11 @@ respect to a given angle, angular velocity of the connecting rod, and slider vel
 The code also created a scaled animation with the axes being in meters.  The visualized 
 angular velocity is slowed down  to make an easier viewing, but all of the values produced by 
 the code itself are correct.  The video and code are included in separate documents. 
-
-<p align="center">
-<img src="SK6.png" alt="Project Logo">
-</p>
  
+
+https://github.com/user-attachments/assets/43b7b685-1f76-4e42-b325-722c5175aa2b
+
+
 ## Force Analysis: 
 For the force analysis, we decide to only focus on the rods and cranks. The reason is 
 because there is not much motion related to the parts like the basket or trash can. The tool we 

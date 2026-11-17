@@ -1,14 +1,6 @@
 # Sittin-Kitten
 The Sittin' Kitten is an automated litterbox designed using SolidWorks
 This project was designed by Drew Lawton, Sean Kelley, and Ziyang Zhou
-
-![hoverover text](SK1)
-
- 
-The Sittin’ Kitten 
-  
-Drew Lawton, Sean Kelley, and Ziyang Zhou 
- 
  
 ## Design Alternatives: 
 
@@ -108,29 +100,24 @@ the code itself are correct.  The video and code are included in separate docume
  ![hoverover text](SK6.png)
  
 ## Force Analysis: 
-     For the force analysis, we decide to only focus on the rods and cranks. The reason is 
+For the force analysis, we decide to only focus on the rods and cranks. The reason is 
 because there is not much motion related to the parts like the basket or trash can. The tool we 
 used to do the force analysis was the SolidWorks FEA simulation tool which is a built- in tool in 
 SolidWorks.  
 
 For the Part Crank 1-A: 
-
 ![hoverover text](SK7.png)
  
 For the Part Crank 1-B: 
-
 ![hoverover text](SK8.png)
  
 For the part Pin B:
-
 ![hoverover text](SK9.png)
 
 For the part Rod: 
-
 ![hoverover text](SK10.png)
  
 ## Mechanics of Materials Analysis: 
-
 When testing the materials, we applied forces well above what the system would usually 
 encounter so that our results would be applicable for even the largest of cats.  We chose the 
 motors we used based on this criteria from Jameco Electronics, “An application’s specifications 

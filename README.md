@@ -132,19 +132,16 @@ For the Part Crank 1-A:
 <p align="center">
 <img src="SK7.png" alt="Project Logo">
 </p>
-![hoverover text](SK7.png)
  
 For the Part Crank 1-B: 
 <p align="center">
 <img src="SK8.png" alt="Project Logo">
 </p>
-![hoverover text](SK8.png)
  
 For the part Pin B:
 <p align="center">
 <img src="SK9.png" alt="Project Logo">
 </p>
-![hoverover text](SK9.png)
 
 For the part Rod: 
 <p align="center">
